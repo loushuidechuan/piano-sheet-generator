@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# setup 脚本创建的隔离环境
+.venv-score/
+.venv-sep/
+.env.local
+
+# 测试与缓存
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# 产物(保留目录, 忽略内容)
+output/*
+!output/.gitkeep
+
+# 中间临时文件
+*.wav
+*.mid
+*.musicxml
+!tests/fixtures/*.mid
+!tests/fixtures/*.musicxml
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp

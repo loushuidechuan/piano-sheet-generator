@@ -1,0 +1,7 @@
+# 分离环境依赖 (BS-RoFormer 钢琴音轨分离), 独立 venv
+# 安装: pip install -r requirements-sep.txt
+# 注: 会自动带 torch(默认含 CUDA); 纯 CPU 机器用 setup 脚本的 --cpu 选项
+
+bs-roformer-infer>=0.1.5
+soundfile>=0.12
+numpy>=1.24

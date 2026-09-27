@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 loushuidechuan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER / 免责声明
+
+This project is intended to help music enthusiasts quickly generate sheet
+music. It does NOT guarantee the quality or accuracy of the generated scores.
+Automatic transcription is an inference process; results may deviate from the
+original work and require manual proofreading before formal use.
+
+本项目用于辅助音乐爱好者快速生成五线谱，不保证五线谱质量。自动转写结果为算法
+推断，可能与原曲存在偏差，请人工校对后使用；请勿将本项目用于侵犯他人音乐作品
+著作权的用途。
+
+Third-party models (BS-RoFormer, piano_transcription_inference) and fonts are
+subject to their own license terms.
